@@ -12,7 +12,7 @@ npm run dev
 ```
 
 ## Demo Page
-https://green-dashboard-fn.netlify.app/login
+https://green-dashboard-fn.netlify.app
 
 username: dpierrof | 
 password: Vru55Y4tufI4
